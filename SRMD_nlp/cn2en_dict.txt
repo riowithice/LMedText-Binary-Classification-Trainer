@@ -1,0 +1,45 @@
+# 中英对照字典文件
+# 格式：中文=英文
+# 每行一个词条，支持中文和英文
+
+骨折=fracture
+入院=admission
+辅助 检查=auxiliary examination
+患者=patient
+辅助=auxiliary
+左侧=left side
+检查=examination
+收住=hospitalization
+小时=hour
+外伤=trauma
+收住 入院=admission to hospital
+医师=physician
+初步=preliminary
+CT=CT
+损伤=injury
+初步 诊断=preliminary diagnosis
+疼痛=pain
+诊断=diagnosis
+出血=bleeding
+门诊=outpatient
+治疗=treatment
+少量=small amount
+考虑=consideration
+目前=currently
+提示=indication
+小时 入院=hour admission
+记录=record
+血小板=platelet
+明显=obvious
+活动=activity
+阴性=negative
+脑梗死=cerebral infarction
+静脉=vein
+感染=infection
+动脉=artery
+血肿 = hematoma
+半月板 = meniscus
+抗凝=anticoagulation
+不全=insufficiency
+摔伤=fall injury
+急诊=Emergency
